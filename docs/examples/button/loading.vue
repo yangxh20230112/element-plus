@@ -1,5 +1,5 @@
 <template>
-  <el-button type="primary" loading>Loading</el-button>
+  <el-button type="primary" loading>下载</el-button>
   <el-button type="primary" :loading-icon="Eleme" loading>Loading</el-button>
   <el-button type="primary" loading>
     <template #loading>
